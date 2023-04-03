@@ -128,14 +128,14 @@ public class MyStepdefs {
 
             assertEquals(actual, expected);
 
-            if (errorMessage.equals("An email address must contain a single @.")) {
+            if (errorMessage.contains("email address")) {
                 expectedMessage = "An email address must contain a single @.";
 
             }
-            if (errorMessage.equals("Enter a value less than 100 characters long")) {
+            if (errorMessage.contains("100 characters")) {
                 expectedMessage = "Enter a value less than 100 characters long";
             }
-            if (errorMessage.equals("Great minds think alike - someone already has this username. If it's you, log in.")) {
+            if (errorMessage.contains("Great minds")) {
                 expectedMessage = "Great minds think alike - someone already has this username. If it's you, log in.";
             }
 

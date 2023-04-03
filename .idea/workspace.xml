@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f06a731c-289f-4769-be3c-03f07f487edc" name="Changes" comment="Alla test fungerar som de ska" />
+    <list default="true" id="f06a731c-289f-4769-be3c-03f07f487edc" name="Changes" comment="Alla test fungerar som de ska 2">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/myStepDefs/MyStepdefs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/myStepDefs/MyStepdefs.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +26,19 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCucumberState">
+    <option name="groupTag" value="false" />
   </component>
   <component name="ProjectId" id="2MgEtRPz4ZV33797vtJxppqBFo4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -53,7 +64,7 @@
       <recent name="Data" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Cucumber Java.Scenario: Inputting information, and try to creat a new user">
     <configuration name="Scenario: Inputting information, and creat a New user -  - Example n°1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/mailchimp.feature:16" />
@@ -191,7 +202,13 @@
       <option name="presentableId" value="LOCAL−00003" />
       <updated>1680180865132</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL−00004" summary="Alla test fungerar som de ska 2">
+      <created>1680181261480</created>
+      <option name="number" value="LOCAL−00004" />
+      <option name="presentableId" value="LOCAL−00004" />
+      <updated>1680181261480</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +224,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Alla test fungerar som de ska" />
-    <option name="LAST_COMMIT_MESSAGE" value="Alla test fungerar som de ska" />
+    <MESSAGE value="Alla test fungerar som de ska 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Alla test fungerar som de ska 2" />
   </component>
 </project>
